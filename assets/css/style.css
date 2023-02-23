@@ -141,20 +141,7 @@
 }
 /* Section 2 ends */
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/*Responsive*/
 
 @media screen and (max-width: 992px) {
     .count-section-boxes{
@@ -169,5 +156,11 @@
        }
        .count-section{
         height: 900px;
+       }
+       .comments-section{
+        margin-top:0;
+        margin-left: 0;
+        height: 900px;
+        width: 550px;
        }
   }
